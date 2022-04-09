@@ -1,0 +1,58 @@
+{
+  "productList": [
+    {
+      "productName": "D54",
+      "category": "iPhone",
+      "condition": "New",
+      "price": "1200",
+      "comment": "comment x13",
+      "date": "2022-04-08T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Galaxy S12",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "700",
+      "comment": "Galaxy S12 comment",
+      "date": "2022-04-15T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "3310",
+      "category": "Nokia",
+      "condition": "Second Hand",
+      "price": "35",
+      "comment": "Nokia 3310 old",
+      "date": "2022-04-14T19:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Galaxy S12",
+      "category": "Samsung",
+      "condition": "Second Hand",
+      "price": "700",
+      "comment": "Galaxy S12 blank",
+      "date": "2022-04-15T19:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "S20",
+      "category": "Samsung",
+      "condition": "Second Hand",
+      "price": "431",
+      "comment": "S20",
+      "date": "2022-04-14T19:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "P2133",
+      "category": "Samsung",
+      "condition": "Second Hand",
+      "price": "314",
+      "comment": "asd",
+      "date": "2022-04-06T19:00:00.000Z",
+      "id": 9
+    }
+  ]
+}
